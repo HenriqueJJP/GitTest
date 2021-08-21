@@ -1,1 +1,7 @@
 Init Test!!
+
+<begin>
+*
+*
+*
+<end>
